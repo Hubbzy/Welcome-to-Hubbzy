@@ -1,2 +1,2 @@
-# Welcome to your Statusoft!
-The code in Statusoft is copyright protected and use is only allowed through authroized request only.
+# Welcome to your Hubbzy!
+The code in Hubbzy is copyright protected and use is only allowed through authroized request only.
