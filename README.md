@@ -1,4 +1,4 @@
-![Simply Supports Logo](https://github.com/Hubbzy/Simply-Supports/blob/main/backend/public/img/simplysupports_logo_text_bg.png) 
+![Hubbzy outline Logo](https://github.com/Hubbzy/Welcome-to-Hubbzy/blob/main/hubbzy_logo_outline.png)
 
 Hubbzy
 ======================
